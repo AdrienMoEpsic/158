@@ -7,7 +7,7 @@ def hello():
 
     return "Je fais mon examen 2 ! change diogo"
     return "Je fais mon examen 2 !"
-    return "test"
+    return "test Arthur"
 
 
 
