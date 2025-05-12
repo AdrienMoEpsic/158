@@ -6,6 +6,7 @@ app = Flask(__name__)
 def hello():
     return "Je fais mon examen 2 !"
     return "Arthur aussi !"
+    return "et diogo woah !"
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5000)
