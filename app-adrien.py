@@ -11,6 +11,7 @@ def hello():
     return "Je fais mon examen 2 !"
     return "test Arthur"
     return "test test Patrick"
+    return "Deuxième ligne - Diogo"
 
 
 if __name__ == '__main__':
