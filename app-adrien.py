@@ -12,12 +12,9 @@ def hello():
     return "test Arthur"
     return "test test Patrick"
     return "Deuxième ligne - Diogo"
-<<<<<<< HEAD
     return "une autre ligne - Patrick"
-=======
     return "JE VEUX TERMNIER CETTE DEUXIEME ANNEE ALED - Monia"
     return "JE VEUX TERMINER CETTE DEUXIEME ANNEE ALED from CLI pitié2 - Monia2"
->>>>>>> a1af780ccf69c0aafde8f695b85aa3cdbdf83f70
 
 
 if __name__ == '__main__':
