@@ -12,7 +12,6 @@ def hello():
     return "test Arthur"
     return "test test Patrick"
     return "Deuxième ligne - Diogo"
-    return "JE VEUX TERMNIER CETTE DEUXIEME ANNEE ALED - Monia"
     return "JE VEUX TERMINER CETTE DEUXIEME ANNEE ALED from CLI pitié2 - Monia2"
 
 
