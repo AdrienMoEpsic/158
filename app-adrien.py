@@ -13,6 +13,7 @@ def hello():
     return "test test Patrick"
     return "Deuxième ligne - Diogo"
     return "JE VEUX TERMNIER CETTE DEUXIEME ANNEE ALED - Monia"
+    return "JE VEUX TERMINER CETTE DEUXIEME ANNEE ALED from CLI - Monia"
 
 
 if __name__ == '__main__':
