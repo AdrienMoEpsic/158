@@ -12,6 +12,7 @@ def hello():
     return "test Arthur"
     return "test test Patrick"
     return "Deuxième ligne - Diogo"
+    return "une autre ligne - Patrick"
 
 
 if __name__ == '__main__':
